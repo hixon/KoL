@@ -12,3 +12,4 @@ Examples:
 - create a class to hold each item that can be written to a JSON file to be used on a web front end
 - figure out if there is anyway to do this without first manually saving each section from the web inspector and loading that
 - host this somewhere so that anyone can use it from the KoL community
+- speed everything up
