@@ -1,7 +1,7 @@
 # KoL
 Tools and stuff for KoL
 
-Testing out a simple way to map character inventory to a catalog that can be queries for specific information
+Testing out a simple way to map character inventory to a catalog that can be queried for specific information
 Examples:
   - best outfits for prismatic damage
   - what will give me the most stench damage including potions
