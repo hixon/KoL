@@ -13,3 +13,4 @@ Examples:
 - figure out if there is anyway to do this without first manually saving each section from the web inspector and loading that
 - host this somewhere so that anyone can use it from the KoL community
 - speed everything up
+- find a way to pick between a skill and effect so we can pull info from the kol wiki site
